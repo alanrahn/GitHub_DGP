@@ -1,0 +1,17 @@
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPFileStoreAPI\bin\Release\DGPFileStoreAPI.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPFileStoreAPI\bin\Release\DGPFileStoreAPI.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPFileStoreAPI\bin\Release\ApiUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPFileStoreAPI\bin\Release\SysInfoDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPFileStoreAPI\bin\Release\SysMetricsDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPFileStoreAPI\bin\Release\SqlSvrUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPFileStoreAPI\bin\Release\SysInfoDB.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPFileStoreAPI\bin\Release\SysMetricsDB.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPFileStoreAPI\bin\Release\ApiUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPFileStoreAPI\bin\Release\SqlSvrUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPFileStoreAPI\obj\Release\DGPFileStoreAPI.csprojAssemblyReference.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPFileStoreAPI\obj\Release\DGPFileStoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPFileStoreAPI\obj\Release\DGPFileStoreAPI.csproj.CopyComplete
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPFileStoreAPI\obj\Release\DGPFileStoreAPI.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPFileStoreAPI\obj\Release\DGPFileStoreAPI.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPFileStoreAPI\bin\Release\FileStoreDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPFileStoreAPI\bin\Release\FileStoreDB.pdb

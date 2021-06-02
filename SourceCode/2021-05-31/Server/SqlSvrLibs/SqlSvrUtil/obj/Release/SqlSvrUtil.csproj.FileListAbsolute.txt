@@ -1,0 +1,9 @@
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SqlSvrUtil\bin\Release\SqlSvrUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SqlSvrUtil\bin\Release\SqlSvrUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SqlSvrUtil\bin\Release\ApiUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SqlSvrUtil\bin\Release\ApiUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SqlSvrUtil\obj\Release\SqlSvrUtil.csprojAssemblyReference.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SqlSvrUtil\obj\Release\SqlSvrUtil.csproj.CoreCompileInputs.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SqlSvrUtil\obj\Release\SqlSvrUtil.csproj.CopyComplete
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SqlSvrUtil\obj\Release\SqlSvrUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SqlSvrUtil\obj\Release\SqlSvrUtil.pdb

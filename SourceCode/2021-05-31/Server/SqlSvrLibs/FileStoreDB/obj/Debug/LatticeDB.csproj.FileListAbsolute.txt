@@ -1,0 +1,13 @@
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\LatticeDB\bin\Debug\LatticeDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\LatticeDB\bin\Debug\LatticeDB.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\LatticeDB\bin\Debug\ApiUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\LatticeDB\bin\Debug\SqlSvrUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\LatticeDB\bin\Debug\SysMetricsDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\LatticeDB\bin\Debug\ApiUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\LatticeDB\bin\Debug\SqlSvrUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\LatticeDB\bin\Debug\SysMetricsDB.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\LatticeDB\obj\Debug\LatticeDB.csprojAssemblyReference.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\LatticeDB\obj\Debug\LatticeDB.csproj.CoreCompileInputs.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\LatticeDB\obj\Debug\LatticeDB.csproj.CopyComplete
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\LatticeDB\obj\Debug\LatticeDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\LatticeDB\obj\Debug\LatticeDB.pdb

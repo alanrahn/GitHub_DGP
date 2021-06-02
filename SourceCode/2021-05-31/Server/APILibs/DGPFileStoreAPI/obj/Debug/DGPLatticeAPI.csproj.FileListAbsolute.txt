@@ -1,0 +1,17 @@
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPLatticeAPI\bin\Debug\DGPLatticeAPI.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPLatticeAPI\bin\Debug\DGPLatticeAPI.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPLatticeAPI\bin\Debug\ApiUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPLatticeAPI\bin\Debug\LatticeDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPLatticeAPI\bin\Debug\SysInfoDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPLatticeAPI\bin\Debug\SysMetricsDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPLatticeAPI\bin\Debug\SqlSvrUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPLatticeAPI\bin\Debug\LatticeDB.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPLatticeAPI\bin\Debug\SysInfoDB.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPLatticeAPI\bin\Debug\SysMetricsDB.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPLatticeAPI\bin\Debug\ApiUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPLatticeAPI\bin\Debug\SqlSvrUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPLatticeAPI\obj\Debug\DGPLatticeAPI.csprojAssemblyReference.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPLatticeAPI\obj\Debug\DGPLatticeAPI.csproj.CoreCompileInputs.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPLatticeAPI\obj\Debug\DGPLatticeAPI.csproj.CopyComplete
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPLatticeAPI\obj\Debug\DGPLatticeAPI.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPLatticeAPI\obj\Debug\DGPLatticeAPI.pdb

@@ -1,0 +1,63 @@
+
+	<TestBatch>
+		<TName>TestResult GetErrData negative</TName>
+		<TDescrip>Negative tests of the TestResult GetErrData method</TDescrip>
+		<TGID>{{TGID}}</TGID>
+		<TMsg>
+			<TMUserName>{{TMUserName}}</TMUserName>
+			<TMPassword>{{TMPassword}}</TMPassword>
+			<TMName>TestResult.GetEvalInfo.base</TMName>
+			<TMDescrip>NEGATIVE: attempt to retrieve evalinfo value with no global ID value</TMDescrip>
+			<TMExpAuthCode>OK</TMExpAuthCode>
+			<Meth>
+				<MName>TestResult.GetEvalInfo.base</MName>
+				<PList>
+					<Prm>
+						<Name>SchemaFlag</Name>
+						<Val>
+							<![CDATA[]]>
+						</Val>
+					</Prm>
+					<Prm>
+						<Name>row_gid</Name>
+						<Val>
+							<![CDATA[]]>
+						</Val>
+					</Prm>
+				</PList>
+			</Meth>
+			<RList>
+				<Result>
+					<RName>TestResult.GetEvalInfo.base_DEFAULT</RName>
+					<ExpRCode>ERROR</ExpRCode>
+					<ExpDType>TEXT</ExpDType>
+					<ExpRVal></ExpRVal>
+					<ValMatch></ValMatch>
+					<VarName></VarName>
+				</Result>
+			</RList>
+		</TMsg>
+		<TMsg>
+			<TMUserName>{{TMUserName}}</TMUserName>
+			<TMPassword>{{TMPassword}}</TMPassword>
+			<TMName>TestResult.GetErrData.base</TMName>
+			<TMDescrip>missing input params</TMDescrip>
+			<TMExpAuthCode>OK</TMExpAuthCode>
+			<Meth>
+				<MName>TestResult.GetErrData.base</MName>
+				<PList>
+				</PList>
+			</Meth>
+			<RList>
+				<Result>
+					<RName>TestResult.GetErrData.base_DEFAULT</RName>
+					<ExpRCode>ERROR</ExpRCode>
+					<ExpDType>TEXT</ExpDType>
+					<ExpRVal></ExpRVal>
+					<ValMatch></ValMatch>
+					<VarName></VarName>
+				</Result>
+			</RList>
+		</TMsg>
+	</TestBatch>
+	

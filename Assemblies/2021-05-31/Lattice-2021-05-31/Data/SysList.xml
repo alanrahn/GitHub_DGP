@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<SysList>
+	<Sys>
+		<SysName>DGP Lattice Beta</SysName>
+		<SysDescrip>Dev environment example</SysDescrip>
+		<LocList>
+			<Loc>
+				<LocName>Dev localhost</LocName>
+				<LocDescrip>connect to a web service on the local computer</LocDescrip>
+				<EPList>
+					<EP>
+						<EPName>web service</EPName>
+						<EPDescrip>direct access</EPDescrip>
+						<EPURL>http://localhost/DGPWebSvc/DGPCntrl.aspx</EPURL>
+					</EP>
+					<EP>
+						<EPName>web service proxy</EPName>
+						<EPDescrip>proxy access</EPDescrip>
+						<EPURL>http://localhost/DGPWebApp/DGPProxy.aspx</EPURL>
+					</EP>
+				</EPList>
+			</Loc>
+		</LocList>
+	</Sys>
+</SysList>

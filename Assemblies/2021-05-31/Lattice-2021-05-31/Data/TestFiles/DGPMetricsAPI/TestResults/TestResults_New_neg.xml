@@ -1,0 +1,57 @@
+
+	<TestBatch>
+		<TName>TestResult New Negative</TName>
+		<TDescrip>Negative tests of the TestResult New method</TDescrip>
+		<TGID>{{TGID}}</TGID>
+		<TMsg>
+			<TMUserName>{{TMUserName}}</TMUserName>
+			<TMPassword>{{TMPassword}}</TMPassword>
+			<TMName>TestResult.New.base</TMName>
+			<TMDescrip>empty input parameters</TMDescrip>
+			<TMExpAuthCode>OK</TMExpAuthCode>
+			<Meth>
+				<MName>TestResult.New.base</MName>
+				<PList>
+					<Prm>
+						<Name>ResultRecords</Name>
+						<Val>
+							<![CDATA[]]>
+						</Val>
+					</Prm>
+				</PList>
+			</Meth>
+			<RList>
+				<Result>
+					<RName>TestResult.New.base_DEFAULT</RName>
+					<ExpRCode>ERROR</ExpRCode>
+					<ExpDType>TEXT</ExpDType>
+					<ExpRVal></ExpRVal>
+					<ValMatch></ValMatch>
+					<VarName></VarName>
+				</Result>
+			</RList>
+		</TMsg>
+		<TMsg>
+			<TMUserName>{{TMUserName}}</TMUserName>
+			<TMPassword>{{TMPassword}}</TMPassword>
+			<TMName>TestResult.New.base</TMName>
+			<TMDescrip>missing input parameters</TMDescrip>
+			<TMExpAuthCode>OK</TMExpAuthCode>
+			<Meth>
+				<MName>TestResult.New.base</MName>
+				<PList>
+				</PList>
+			</Meth>
+			<RList>
+				<Result>
+					<RName>TestResult.New.base_DEFAULT</RName>
+					<ExpRCode>ERROR</ExpRCode>
+					<ExpDType>TEXT</ExpDType>
+					<ExpRVal></ExpRVal>
+					<ValMatch></ValMatch>
+					<VarName></VarName>
+				</Result>
+			</RList>
+		</TMsg>
+	</TestBatch>
+	

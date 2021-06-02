@@ -1,0 +1,387 @@
+
+	<TestBatch>
+		<TName>TestResult Create, Read, (update, delete)</TName>
+		<TDescrip>Tests to create and read log entries (update not applicable)</TDescrip>
+		<TGID>{{TGID}}</TGID>
+		<TMsg>
+			<TMUserName>{{TMUserName}}</TMUserName>
+			<TMPassword>{{TMPassword}}</TMPassword>
+			<TMName>TestResult.GetPageSize.base</TMName>
+			<TMDescrip>Queries for the number of rows in a page of results from the server</TMDescrip>
+			<TMExpAuthCode>OK</TMExpAuthCode>
+			<Meth>
+				<MName>TestResult.GetPageSize.base</MName>
+				<PList>
+				</PList>
+			</Meth>
+			<RList>
+				<Result>
+					<RName>TestResult.GetPageSize.base_DEFAULT</RName>
+					<ExpRCode>OK</ExpRCode>
+					<ExpDType>TEXT</ExpDType>
+					<ExpRVal></ExpRVal>
+					<ValMatch></ValMatch>
+					<VarName>PAGESIZE</VarName>
+				</Result>
+			</RList>
+		</TMsg>
+		<TMsg>
+			<TMUserName>{{TMUserName}}</TMUserName>
+			<TMPassword>{{TMPassword}}</TMPassword>
+			<TMName>TestResult.New.base</TMName>
+			<TMDescrip>Creates a batch of new records in the TestResult table</TMDescrip>
+			<TMExpAuthCode>OK</TMExpAuthCode>
+			<Meth>
+				<MName>TestResult.New.base</MName>
+				<PList>
+					<Prm>
+						<Name>ResultRecords</Name>
+						<Val>
+							<![CDATA[<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Record" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Record">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="TestRun" type="xs:string" minOccurs="0" />
+                <xs:element name="Eval" type="xs:string" minOccurs="0" />
+                <xs:element name="EvalInfo" type="xs:string" minOccurs="0" />
+                <xs:element name="APIMethod" type="xs:string" minOccurs="0" />
+                <xs:element name="Descrip" type="xs:string" minOccurs="0" />
+                <xs:element name="AuthCode" type="xs:string" minOccurs="0" />
+                <xs:element name="AuthInfo" type="xs:string" minOccurs="0" />
+                <xs:element name="ExpAuthCode" type="xs:string" minOccurs="0" />
+                <xs:element name="ClientMS" type="xs:string" minOccurs="0" />
+                <xs:element name="NetworkMS" type="xs:string" minOccurs="0" />
+                <xs:element name="ServerMS" type="xs:string" minOccurs="0" />
+                <xs:element name="CompName" type="xs:string" minOccurs="0" />
+                <xs:element name="TimeStamp" type="xs:string" minOccurs="0" />
+                <xs:element name="ReqXML" type="xs:string" minOccurs="0" />
+                <xs:element name="ReqSize" type="xs:string" minOccurs="0" />
+                <xs:element name="RespXML" type="xs:string" minOccurs="0" />
+                <xs:element name="RespSize" type="xs:string" minOccurs="0" />
+                <xs:element name="UserName" type="xs:string" minOccurs="0" />
+                <xs:element name="HostName" type="xs:string" minOccurs="0" />
+                <xs:element name="SvcURL" type="xs:string" minOccurs="0" />
+                <xs:element name="FileName" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Record>
+    <TestRun>AutoTestComp : AutoTestUser : {{TGID}}</TestRun>
+    <Eval>PASS</Eval>
+    <EvalInfo>&lt;TestMeth&gt;&lt;TestMethName&gt;Test.EchoTest.base&lt;/TestMethName&gt;&lt;TestMethDescrip&gt;test of the basic web service security functionality which returns the input parameter as the method result&lt;/TestMethDescrip&gt;&lt;TestAuth&gt;&lt;ExpAuth&gt;OK&lt;/ExpAuth&gt;&lt;ActAuth&gt;OK&lt;/ActAuth&gt;&lt;/TestAuth&gt;&lt;TestResultList&gt;&lt;TestResult&gt;&lt;TestResName&gt;Test.EchoTest.base_DEFAULT&lt;/TestResName&gt;&lt;TestResEval&gt;PASS&lt;/TestResEval&gt;&lt;ExpRcode&gt;OK&lt;/ExpRcode&gt;&lt;ActRcode&gt;OK&lt;/ActRcode&gt;&lt;ExpDtype&gt;TEXT&lt;/ExpDtype&gt;&lt;ActDtype&gt;TEXT&lt;/ActDtype&gt;&lt;ExpRval&gt;&lt;/ExpRval&gt;&lt;/TestResult&gt;&lt;/TestResultList&gt;&lt;/TestMeth&gt;</EvalInfo>
+    <APIMethod>Test.EchoTest.base</APIMethod>
+    <Descrip>test of the basic web service security functionality which returns the input parameter as the method result</Descrip>
+    <AuthCode>OK</AuthCode>
+    <AuthInfo>ONLINE</AuthInfo>
+    <ExpAuthCode>OK</ExpAuthCode>
+    <ClientMS>1.7827</ClientMS>
+    <NetworkMS>1.6213</NetworkMS>
+    <ServerMS>0.1614</ServerMS>
+    <CompName>AutoTestComp</CompName>
+    <TimeStamp>2021-04-19 16:11:03.624</TimeStamp>
+    <ReqXML>&lt;ReqMsg&gt;&lt;UserName&gt;AutoTestUser&lt;/UserName&gt;&lt;ReqID&gt;fb4a0e621d114bae9fa7c4acb861d064&lt;/ReqID&gt;&lt;ReqToken&gt;ddd93ffc8dd49226faa3de73b0450d507389735c7e94e53df8086012516e1519&lt;/ReqToken&gt;&lt;Time&gt;1618848663622&lt;/Time&gt;&lt;MList&gt;&lt;Meth&gt;
+				&lt;MName&gt;Test.EchoTest.base&lt;/MName&gt;
+				&lt;PList&gt;
+					&lt;Prm&gt;
+						&lt;Name&gt;EchoValue&lt;/Name&gt;
+						&lt;Val&gt;
+							&lt;![CDATA[This is a test of the basic web service security functionality which returns the input parameter as the method result]]&gt;
+						&lt;/Val&gt;
+					&lt;/Prm&gt;
+				&lt;/PList&gt;
+			&lt;/Meth&gt;&lt;/MList&gt;&lt;/ReqMsg&gt;</ReqXML>
+    <ReqSize>513</ReqSize>
+    <RespXML>&lt;RespMsg&gt;&lt;UserName&gt;AutoTestUser&lt;/UserName&gt;&lt;ReqID&gt;fb4a0e621d114bae9fa7c4acb861d064&lt;/ReqID&gt;&lt;Time&gt;1618848663624&lt;/Time&gt;&lt;Auth&gt;OK&lt;/Auth&gt;&lt;Info&gt;ONLINE&lt;/Info&gt;&lt;SvrMS&gt;0.1614&lt;/SvrMS&gt;&lt;RList&gt;&lt;Result&gt;&lt;RName&gt;Test.EchoTest.base_DEFAULT&lt;/RName&gt;&lt;RCode&gt;OK&lt;/RCode&gt;&lt;DType&gt;TEXT&lt;/DType&gt;&lt;RVal&gt;&lt;![CDATA[This is a test of the basic web service security functionality which returns the input parameter as the method result]]&gt;&lt;/RVal&gt;&lt;/Result&gt;&lt;/RList&gt;&lt;/RespMsg&gt;</RespXML>
+    <RespSize>427</RespSize>
+    <UserName>AutoTestUser</UserName>
+    <SvcURL>http://localhost/DGPWebSvc/DGPCntrl.aspx</SvcURL>
+    <FileName>Test API Methods</FileName>
+  </Record>
+  <Record>
+    <TestRun>AutoTestComp : AutoTestUser : {{TGID}}</TestRun>
+    <Eval>PASS</Eval>
+    <EvalInfo>&lt;TestMeth&gt;&lt;TestMethName&gt;Test.LoggingTest.base&lt;/TestMethName&gt;&lt;TestMethDescrip&gt;test of the ServerErrLog server-side logging&lt;/TestMethDescrip&gt;&lt;TestAuth&gt;&lt;ExpAuth&gt;OK&lt;/ExpAuth&gt;&lt;ActAuth&gt;OK&lt;/ActAuth&gt;&lt;/TestAuth&gt;&lt;TestResultList&gt;&lt;TestResult&gt;&lt;TestResName&gt;Test.LoggingTest.base_DEFAULT&lt;/TestResName&gt;&lt;TestResEval&gt;PASS&lt;/TestResEval&gt;&lt;ExpRcode&gt;OK&lt;/ExpRcode&gt;&lt;ActRcode&gt;OK&lt;/ActRcode&gt;&lt;ExpDtype&gt;TEXT&lt;/ExpDtype&gt;&lt;ActDtype&gt;TEXT&lt;/ActDtype&gt;&lt;ExpRval&gt;&lt;/ExpRval&gt;&lt;/TestResult&gt;&lt;/TestResultList&gt;&lt;/TestMeth&gt;</EvalInfo>
+    <APIMethod>Test.LoggingTest.base</APIMethod>
+    <Descrip>test of the ServerErrLog server-side logging</Descrip>
+    <AuthCode>OK</AuthCode>
+    <AuthInfo>ONLINE</AuthInfo>
+    <ExpAuthCode>OK</ExpAuthCode>
+    <ClientMS>19.0009</ClientMS>
+    <NetworkMS>1.0121</NetworkMS>
+    <ServerMS>17.9888</ServerMS>
+    <CompName>AutoTestComp</CompName>
+    <TimeStamp>2021-04-19 16:11:03.643</TimeStamp>
+    <ReqXML>&lt;ReqMsg&gt;&lt;UserName&gt;AutoTestUser&lt;/UserName&gt;&lt;ReqID&gt;f0e46adae1b44e7eb5ec686e8c239fb8&lt;/ReqID&gt;&lt;ReqToken&gt;192c25f82f4f489fddcf3f5aae0e735a0826b55fc0379356ed35b75344896fd6&lt;/ReqToken&gt;&lt;Time&gt;1618848663624&lt;/Time&gt;&lt;MList&gt;&lt;Meth&gt;
+				&lt;MName&gt;Test.LoggingTest.base&lt;/MName&gt;
+				&lt;PList&gt;
+					&lt;Prm&gt;
+						&lt;Name&gt;&lt;/Name&gt;
+						&lt;Val&gt;
+							&lt;![CDATA[]]&gt;
+						&lt;/Val&gt;
+					&lt;/Prm&gt;
+				&lt;/PList&gt;
+			&lt;/Meth&gt;&lt;/MList&gt;&lt;/ReqMsg&gt;</ReqXML>
+    <ReqSize>390</ReqSize>
+    <RespXML>&lt;RespMsg&gt;&lt;UserName&gt;AutoTestUser&lt;/UserName&gt;&lt;ReqID&gt;f0e46adae1b44e7eb5ec686e8c239fb8&lt;/ReqID&gt;&lt;Time&gt;1618848663643&lt;/Time&gt;&lt;Auth&gt;OK&lt;/Auth&gt;&lt;Info&gt;ONLINE&lt;/Info&gt;&lt;SvrMS&gt;17.9888&lt;/SvrMS&gt;&lt;RList&gt;&lt;Result&gt;&lt;RName&gt;Test.LoggingTest.base_DEFAULT&lt;/RName&gt;&lt;RCode&gt;OK&lt;/RCode&gt;&lt;DType&gt;TEXT&lt;/DType&gt;&lt;RVal&gt;&lt;![CDATA[Test of the Test.LoggingTest.base method to execute various levels of EventLogger logging.]]&gt;&lt;/RVal&gt;&lt;/Result&gt;&lt;/RList&gt;&lt;/RespMsg&gt;</RespXML>
+    <RespSize>404</RespSize>
+    <UserName>AutoTestUser</UserName>
+    <SvcURL>http://localhost/DGPWebSvc/DGPCntrl.aspx</SvcURL>
+    <FileName>Test API Methods</FileName>
+  </Record>
+  <Record>
+    <TestRun>AutoTestComp : AutoTestUser : {{TGID}}</TestRun>
+    <Eval>PASS</Eval>
+    <EvalInfo>&lt;TestMeth&gt;&lt;TestMethName&gt;Test.ExceptionTest.base&lt;/TestMethName&gt;&lt;TestMethDescrip&gt;test of the web service exception handling&lt;/TestMethDescrip&gt;&lt;TestAuth&gt;&lt;ExpAuth&gt;OK&lt;/ExpAuth&gt;&lt;ActAuth&gt;OK&lt;/ActAuth&gt;&lt;/TestAuth&gt;&lt;TestResultList&gt;&lt;TestResult&gt;&lt;TestResName&gt;Test.ExceptionTest.base_DEFAULT&lt;/TestResName&gt;&lt;TestResEval&gt;PASS&lt;/TestResEval&gt;&lt;ExpRcode&gt;EXCEPTION&lt;/ExpRcode&gt;&lt;ActRcode&gt;EXCEPTION&lt;/ActRcode&gt;&lt;ExpDtype&gt;TEXT&lt;/ExpDtype&gt;&lt;ActDtype&gt;TEXT&lt;/ActDtype&gt;&lt;ExpRval&gt;&lt;/ExpRval&gt;&lt;/TestResult&gt;&lt;/TestResultList&gt;&lt;/TestMeth&gt;</EvalInfo>
+    <APIMethod>Test.ExceptionTest.base</APIMethod>
+    <Descrip>test of the web service exception handling</Descrip>
+    <AuthCode>OK</AuthCode>
+    <AuthInfo>ONLINE</AuthInfo>
+    <ExpAuthCode>OK</ExpAuthCode>
+    <ClientMS>2.6423</ClientMS>
+    <NetworkMS>0.974</NetworkMS>
+    <ServerMS>1.6683</ServerMS>
+    <CompName>AutoTestComp</CompName>
+    <TimeStamp>2021-04-19 16:11:03.646</TimeStamp>
+    <ReqXML>&lt;ReqMsg&gt;&lt;UserName&gt;AutoTestUser&lt;/UserName&gt;&lt;ReqID&gt;5d8bc3b49a154fca9c2cc21afa8f898e&lt;/ReqID&gt;&lt;ReqToken&gt;088ea130b1dd54abb8b0b4d327e995dccffe07659c6cb7a9689037a7a32ef3f9&lt;/ReqToken&gt;&lt;Time&gt;1618848663643&lt;/Time&gt;&lt;MList&gt;&lt;Meth&gt;
+				&lt;MName&gt;Test.ExceptionTest.base&lt;/MName&gt;
+				&lt;PList&gt;
+					&lt;Prm&gt;
+						&lt;Name&gt;&lt;/Name&gt;
+						&lt;Val&gt;
+							&lt;![CDATA[]]&gt;
+						&lt;/Val&gt;
+					&lt;/Prm&gt;
+				&lt;/PList&gt;
+			&lt;/Meth&gt;&lt;/MList&gt;&lt;/ReqMsg&gt;</ReqXML>
+    <ReqSize>392</ReqSize>
+    <RespXML>&lt;RespMsg&gt;&lt;UserName&gt;AutoTestUser&lt;/UserName&gt;&lt;ReqID&gt;5d8bc3b49a154fca9c2cc21afa8f898e&lt;/ReqID&gt;&lt;Time&gt;1618848663646&lt;/Time&gt;&lt;Auth&gt;OK&lt;/Auth&gt;&lt;Info&gt;ONLINE&lt;/Info&gt;&lt;SvrMS&gt;1.6683&lt;/SvrMS&gt;&lt;RList&gt;&lt;Result&gt;&lt;RName&gt;Test.ExceptionTest.base_DEFAULT&lt;/RName&gt;&lt;RCode&gt;EXCEPTION&lt;/RCode&gt;&lt;DType&gt;TEXT&lt;/DType&gt;&lt;RVal&gt;&lt;![CDATA[INNER: This exception message is a test of the web service exception handling and logging.]]&gt;&lt;/RVal&gt;&lt;/Result&gt;&lt;/RList&gt;&lt;/RespMsg&gt;</RespXML>
+    <RespSize>412</RespSize>
+    <UserName>AutoTestUser</UserName>
+    <SvcURL>http://localhost/DGPWebSvc/DGPCntrl.aspx</SvcURL>
+    <FileName>Test API Methods</FileName>
+  </Record>
+</NewDataSet>]]>
+						</Val>
+					</Prm>
+				</PList>
+			</Meth>
+			<RList>
+				<Result>
+					<RName>TestResult.New.base_DEFAULT</RName>
+					<ExpRCode>OK</ExpRCode>
+					<ExpDType>TEXT</ExpDType>
+					<ExpRVal></ExpRVal>
+					<ValMatch></ValMatch>
+					<VarName>NEWGID</VarName>
+				</Result>
+			</RList>
+		</TMsg>
+		<TMsg>
+			<TMUserName>{{TMUserName}}</TMUserName>
+			<TMPassword>{{TMPassword}}</TMPassword>
+			<TMName>TestResult.GetByID.base</TMName>
+			<TMDescrip>NEGATIVE: results from the New batch method do not return a global ID</TMDescrip>
+			<TMExpAuthCode>OK</TMExpAuthCode>
+			<Meth>
+				<MName>TestResult.GetByID.base</MName>
+				<PList>
+					<Prm>
+						<Name>SchemaFlag</Name>
+						<Val>
+							<![CDATA[TRUE]]>
+						</Val>
+					</Prm>
+					<Prm>
+						<Name>row_gid</Name>
+						<Val>
+							<![CDATA[{{NEWGID}}]]>
+						</Val>
+					</Prm>
+				</PList>
+			</Meth>
+			<RList>
+				<Result>
+					<RName>TestResult.GetByID.base_DEFAULT</RName>
+					<ExpRCode>EMPTY</ExpRCode>
+					<ExpDType>TEXT</ExpDType>
+					<ExpRVal></ExpRVal>
+					<ValMatch></ValMatch>
+					<VarName></VarName>
+				</Result>
+			</RList>
+		</TMsg>
+		<TMsg>
+			<TMUserName>{{TMUserName}}</TMUserName>
+			<TMPassword>{{TMPassword}}</TMPassword>
+			<TMName>TestResult.GetAll.base</TMName>
+			<TMDescrip>Query </TMDescrip>
+			<TMExpAuthCode>OK</TMExpAuthCode>
+			<Meth>
+				<MName>TestResult.GetAll.base</MName>
+				<PList>
+					<Prm>
+						<Name>SchemaFlag</Name>
+						<Val>
+							<![CDATA[TRUE]]>
+						</Val>
+					</Prm>
+				</PList>
+			</Meth>
+			<RList>
+				<Result>
+					<RName>TestResult.GetAll.base_DEFAULT</RName>
+					<ExpRCode>OK</ExpRCode>
+					<ExpDType>DATATABLE</ExpDType>
+					<ExpRVal></ExpRVal>
+					<ValMatch></ValMatch>
+					<VarName></VarName>
+				</Result>
+			</RList>
+		</TMsg>
+		<TMsg>
+			<TMUserName>{{TMUserName}}</TMUserName>
+			<TMPassword>{{TMPassword}}</TMPassword>
+			<TMName>TestResult.GetCount.base</TMName>
+			<TMDescrip>Query </TMDescrip>
+			<TMExpAuthCode>OK</TMExpAuthCode>
+			<Meth>
+				<MName>TestResult.GetCount.base</MName>
+				<PList>
+					<Prm>
+						<Name>EvalInfo</Name>
+						<Val>
+							<![CDATA[]]>
+						</Val>
+					</Prm>
+					<Prm>
+						<Name>APIMethod</Name>
+						<Val>
+							<![CDATA[]]>
+						</Val>
+					</Prm>
+				</PList>
+			</Meth>
+			<RList>
+				<Result>
+					<RName>TestResult.GetCount.base_DEFAULT</RName>
+					<ExpRCode>OK</ExpRCode>
+					<ExpDType>TEXT</ExpDType>
+					<ExpRVal></ExpRVal>
+					<ValMatch></ValMatch>
+					<VarName></VarName>
+				</Result>
+			</RList>
+		</TMsg>
+		<TMsg>
+			<TMUserName>{{TMUserName}}</TMUserName>
+			<TMPassword>{{TMPassword}}</TMPassword>
+			<TMName>TestResult.GetSearch.base</TMName>
+			<TMDescrip>Query </TMDescrip>
+			<TMExpAuthCode>OK</TMExpAuthCode>
+			<Meth>
+				<MName>TestResult.GetSearch.base</MName>
+				<PList>
+					<Prm>
+						<Name>SchemaFlag</Name>
+						<Val>
+							<![CDATA[TRUE]]>
+						</Val>
+					</Prm>
+					<Prm>
+						<Name>PageNum</Name>
+						<Val>
+							<![CDATA[0]]>
+						</Val>
+					</Prm>
+					<Prm>
+						<Name>EvalInfo</Name>
+						<Val>
+							<![CDATA[]]>
+						</Val>
+					</Prm>
+					<Prm>
+						<Name>APIMethod</Name>
+						<Val>
+							<![CDATA[]]>
+						</Val>
+					</Prm>
+				</PList>
+			</Meth>
+			<RList>
+				<Result>
+					<RName>TestResult.GetSearch.base_DEFAULT</RName>
+					<ExpRCode>OK</ExpRCode>
+					<ExpDType>DATATABLE</ExpDType>
+					<ExpRVal></ExpRVal>
+					<ValMatch></ValMatch>
+					<VarName></VarName>
+				</Result>
+			</RList>
+		</TMsg>
+		<TMsg>
+			<TMUserName>{{TMUserName}}</TMUserName>
+			<TMPassword>{{TMPassword}}</TMPassword>
+			<TMName>TestResult.GetEvalInfo.base</TMName>
+			<TMDescrip>NEGATIVE: attempt to retrieve evalinfo value with no global ID value</TMDescrip>
+			<TMExpAuthCode>OK</TMExpAuthCode>
+			<Meth>
+				<MName>TestResult.GetEvalInfo.base</MName>
+				<PList>
+					<Prm>
+						<Name>row_gid</Name>
+						<Val>
+							<![CDATA[{{NEWGID}}]]>
+						</Val>
+					</Prm>
+				</PList>
+			</Meth>
+			<RList>
+				<Result>
+					<RName>TestResult.GetEvalInfo.base_DEFAULT</RName>
+					<ExpRCode>ERROR</ExpRCode>
+					<ExpDType>TEXT</ExpDType>
+					<ExpRVal></ExpRVal>
+					<ValMatch></ValMatch>
+					<VarName></VarName>
+				</Result>
+			</RList>
+		</TMsg>
+		<!-- <TMsg>
+			<TMUserName>{{TMUserName}}</TMUserName>
+			<TMPassword>{{TMPassword}}</TMPassword>
+			<TMName>TestResult.Delete.base</TMName>
+			<TMDescrip>NEGATIVE:  attempts to delete a record with no valid global ID</TMDescrip>
+			<TMExpAuthCode>OK</TMExpAuthCode>
+			<Meth>
+				<MName>TestResult.Delete.base</MName>
+				<PList>
+					<Prm>
+						<Name>row_gid</Name>
+						<Val>
+							<![CDATA[{{NEWGID}}]]>
+						</Val>
+					</Prm>
+				</PList>
+			</Meth>
+			<RList>
+				<Result>
+					<RName>TestResult.Delete.base_DEFAULT</RName>
+					<ExpRCode>ERROR</ExpRCode>
+					<ExpDType>TEXT</ExpDType>
+					<ExpRVal></ExpRVal>
+					<ValMatch></ValMatch>
+					<VarName></VarName>
+				</Result>
+			</RList>
+		</TMsg> -->
+	</TestBatch>
+	

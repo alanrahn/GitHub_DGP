@@ -1,0 +1,2 @@
+C:\Users\alanrahn\source\repos\DGP\Server\APILibs\DGPConfigApi\obj\Debug\DGPConfigApi.csprojAssemblyReference.cache
+C:\Users\alanrahn\source\repos\DGP\Server\APILibs\DGPConfigApi\obj\Debug\DGPConfigApi.csproj.CoreCompileInputs.cache

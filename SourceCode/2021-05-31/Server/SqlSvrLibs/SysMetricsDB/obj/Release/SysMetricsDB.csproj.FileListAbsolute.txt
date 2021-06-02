@@ -1,0 +1,11 @@
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysMetricsDB\bin\Release\SysMetricsDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysMetricsDB\bin\Release\SysMetricsDB.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysMetricsDB\bin\Release\ApiUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysMetricsDB\bin\Release\SqlSvrUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysMetricsDB\bin\Release\ApiUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysMetricsDB\bin\Release\SqlSvrUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysMetricsDB\obj\Release\SysMetricsDB.csprojAssemblyReference.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysMetricsDB\obj\Release\SysMetricsDB.csproj.CoreCompileInputs.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysMetricsDB\obj\Release\SysMetricsDB.csproj.CopyComplete
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysMetricsDB\obj\Release\SysMetricsDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysMetricsDB\obj\Release\SysMetricsDB.pdb

@@ -1,0 +1,1213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Publish\WebApp\WebApp-2021-05-31</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ApiUtil.dll">
+      <publishTime>06/01/2021 16:02:41</publishTime>
+    </File>
+    <File Include="bin/ApiUtil.pdb">
+      <publishTime>06/01/2021 16:02:41</publishTime>
+    </File>
+    <File Include="bin/dgpproxy.aspx.cdcab7d2.compiled">
+      <publishTime>06/02/2021 08:01:26</publishTime>
+    </File>
+    <File Include="bin/DGPWebApp.dll">
+      <publishTime>06/02/2021 08:01:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>07/08/2020 21:52:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>05/19/2020 01:51:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>05/19/2020 01:51:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>05/19/2020 01:40:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>05/19/2020 01:52:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>05/19/2020 01:52:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>05/19/2020 01:40:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>05/19/2020 01:47:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>05/19/2020 01:51:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>05/19/2020 01:51:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>05/19/2020 01:49:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>05/19/2020 01:49:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>05/19/2020 01:50:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>05/19/2020 01:40:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>12/05/2017 01:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>12/05/2017 01:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>05/19/2020 01:40:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>05/19/2020 01:40:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>11/05/2016 18:55:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>11/05/2016 18:55:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Buffers.dll">
+      <publishTime>07/19/2017 17:01:28</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/15/2018 20:29:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>11/05/2016 18:55:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>11/05/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>11/05/2016 18:55:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>11/05/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Globalization.Calendars.dll">
+      <publishTime>11/05/2016 18:56:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.ZipFile.dll">
+      <publishTime>11/05/2016 18:56:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Memory.dll">
+      <publishTime>04/17/2019 23:24:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Http.dll">
+      <publishTime>11/05/2016 18:56:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Sockets.dll">
+      <publishTime>11/05/2016 18:56:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Numerics.Vectors.dll">
+      <publishTime>07/19/2017 17:01:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/15/2018 20:29:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>11/15/2019 16:37:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>11/05/2016 18:57:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>11/05/2016 18:57:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>11/05/2016 18:57:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>11/05/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>11/05/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>11/29/2018 23:39:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Tasks.Extensions.dll">
+      <publishTime>06/18/2019 19:08:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>11/05/2016 18:57:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>11/05/2016 18:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>11/05/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>11/05/2016 18:57:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>11/05/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>05/19/2020 01:50:06</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>05/19/2020 01:50:06</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>05/19/2020 01:40:26</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>05/19/2020 01:52:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>05/19/2020 01:52:02</publishTime>
+    </File>
+    <File Include="bin/WebApp.dll">
+      <publishTime>06/02/2021 08:01:17</publishTime>
+    </File>
+    <File Include="bin/WebApp.pdb">
+      <publishTime>06/02/2021 08:01:17</publishTime>
+    </File>
+    <File Include="DGPproxy.aspx">
+      <publishTime>06/02/2021 08:01:22</publishTime>
+    </File>
+    <File Include="Documentation/Content/Design_Docs/wArchitecture_Design.pdf">
+      <publishTime>01/22/2020 09:04:22</publishTime>
+    </File>
+    <File Include="Documentation/Content/Design_Docs/wArchitecture_Design2.pdf">
+      <publishTime>02/03/2020 09:57:35</publishTime>
+    </File>
+    <File Include="Documentation/Content/Design_Docs/wAutomation_Design.pdf">
+      <publishTime>01/22/2020 09:05:01</publishTime>
+    </File>
+    <File Include="Documentation/Content/Design_Docs/wAutoWork_Design.pdf">
+      <publishTime>12/13/2019 08:34:06</publishTime>
+    </File>
+    <File Include="Documentation/Content/Design_Docs/wAvailability_Design.pdf">
+      <publishTime>01/22/2020 09:08:26</publishTime>
+    </File>
+    <File Include="Documentation/Content/Design_Docs/wCI-CD-CT_Design.pdf">
+      <publishTime>01/22/2020 09:07:08</publishTime>
+    </File>
+    <File Include="Documentation/Content/Design_Docs/wCompatibility_Design.pdf">
+      <publishTime>01/22/2020 09:06:25</publishTime>
+    </File>
+    <File Include="Documentation/Content/Design_Docs/wEvolution_Design.pdf">
+      <publishTime>01/22/2020 09:06:44</publishTime>
+    </File>
+    <File Include="Documentation/Content/Design_Docs/wMonitoring_Design.pdf">
+      <publishTime>01/22/2020 09:06:03</publishTime>
+    </File>
+    <File Include="Documentation/Content/Design_Docs/wPerformance_Design.pdf">
+      <publishTime>01/22/2020 09:05:21</publishTime>
+    </File>
+    <File Include="Documentation/Content/Design_Docs/wScalability_Design.pdf">
+      <publishTime>01/22/2020 09:05:42</publishTime>
+    </File>
+    <File Include="Documentation/Content/Design_Docs/wScalability_Design2.pdf">
+      <publishTime>01/27/2020 08:51:59</publishTime>
+    </File>
+    <File Include="Documentation/Content/Design_Docs/wSecurity_Design.pdf">
+      <publishTime>01/22/2020 09:04:42</publishTime>
+    </File>
+    <File Include="Documentation/Content/Design_Docs/wTesting_Design.pdf">
+      <publishTime>01/22/2020 09:08:59</publishTime>
+    </File>
+    <File Include="Documentation/Content/Home_Docs/owasp-api-security-top-10.pdf">
+      <publishTime>10/07/2019 08:14:15</publishTime>
+    </File>
+    <File Include="Documentation/Content/Home_Docs/wDGP_Overview4.pdf">
+      <publishTime>01/22/2020 09:12:46</publishTime>
+    </File>
+    <File Include="Documentation/Content/Home_Docs/wDGP_Overview5.pdf">
+      <publishTime>01/25/2020 05:24:06</publishTime>
+    </File>
+    <File Include="Documentation/Content/Home_Docs/wDGP_OWASP.pdf">
+      <publishTime>12/10/2019 07:45:17</publishTime>
+    </File>
+    <File Include="Documentation/Content/Home_Docs/wPlatform_Overview2.pdf">
+      <publishTime>12/18/2019 05:51:53</publishTime>
+    </File>
+    <File Include="Documentation/Content/Home_Docs/wPlatform_Overview4.pdf">
+      <publishTime>12/23/2019 07:58:39</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wArchitecture_Reqs.pdf">
+      <publishTime>12/13/2019 08:28:53</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wAutomation_Reqs.pdf">
+      <publishTime>01/22/2020 09:22:58</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wAutomation_Reqs2.pdf">
+      <publishTime>01/25/2020 06:07:16</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wAutoWork_Reqs.pdf">
+      <publishTime>12/13/2019 08:29:33</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wAvailability_Reqs.pdf">
+      <publishTime>01/21/2020 10:20:59</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wAvailability_Reqs2.pdf">
+      <publishTime>01/25/2020 06:01:47</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wCI-CD-CT_Reqs.pdf">
+      <publishTime>01/21/2020 10:23:22</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wCI-CD-CT_Reqs2.pdf">
+      <publishTime>01/25/2020 06:20:00</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wCompatibility_Reqs.pdf">
+      <publishTime>01/21/2020 10:23:07</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wCompatibility_Reqs2.pdf">
+      <publishTime>01/25/2020 06:23:30</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wEvolution_Reqs.pdf">
+      <publishTime>01/21/2020 10:21:18</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wEvolution_Reqs2.pdf">
+      <publishTime>01/25/2020 06:30:21</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wEvolution_Reqs3.pdf">
+      <publishTime>02/03/2020 10:47:25</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wMonitoring_Reqs.pdf">
+      <publishTime>01/21/2020 10:22:50</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wMonitoring_Reqs2.pdf">
+      <publishTime>01/25/2020 06:33:59</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wPerformanceEfficiency_Reqs.pdf">
+      <publishTime>01/21/2020 10:22:02</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wPerformanceEfficiency_Reqs2.pdf">
+      <publishTime>01/25/2020 08:22:34</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wScalability_Reqs.pdf">
+      <publishTime>01/21/2020 10:22:16</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wScalability_Reqs2.pdf">
+      <publishTime>01/25/2020 08:05:47</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wScalability_Reqs3.pdf">
+      <publishTime>01/27/2020 08:48:22</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wSecurity_Reqs.pdf">
+      <publishTime>01/21/2020 10:20:43</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wSecurity_Reqs2.pdf">
+      <publishTime>01/25/2020 08:19:40</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wTesting_Reqs.pdf">
+      <publishTime>01/21/2020 10:21:48</publishTime>
+    </File>
+    <File Include="Documentation/Content/Requirement_Docs/wTesting_Reqs2.pdf">
+      <publishTime>01/25/2020 08:16:05</publishTime>
+    </File>
+    <File Include="Documentation/Docs/blank.html">
+      <publishTime>12/18/2019 06:08:23</publishTime>
+    </File>
+    <File Include="Documentation/Docs/CSS/DocsBase.css">
+      <publishTime>02/11/2021 07:49:29</publishTime>
+    </File>
+    <File Include="Documentation/Docs/CSS/DocsPage.css">
+      <publishTime>11/14/2019 11:46:55</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/APIDescrip.html">
+      <publishTime>04/06/2020 06:10:17</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/APIMessage.html">
+      <publishTime>11/12/2019 07:10:35</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/APIMessage.pdf">
+      <publishTime>03/01/2021 06:33:23</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/APIsIndex.html">
+      <publishTime>05/28/2021 10:07:16</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/APITestFiles.pdf">
+      <publishTime>03/01/2021 06:34:01</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPAdmin.html">
+      <publishTime>08/31/2020 09:20:41</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPAdmin/APIMethod.html">
+      <publishTime>03/29/2021 14:41:37</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPAdmin/APIRole.html">
+      <publishTime>04/01/2021 11:39:08</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPAdmin/APIUser.html">
+      <publishTime>04/01/2021 11:39:08</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPAdmin/DataGroup.html">
+      <publishTime>04/01/2021 11:39:08</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPAdmin/DataRead.html">
+      <publishTime>10/03/2019 14:35:43</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPAdmin/DataWrite.html">
+      <publishTime>10/03/2019 14:35:43</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPAdmin/GroupUser.html">
+      <publishTime>04/01/2021 11:39:08</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPAdmin/RoleMethod.html">
+      <publishTime>04/01/2021 11:39:08</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPAdmin/RoleUser.html">
+      <publishTime>04/01/2021 11:39:08</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPAdmin/UserSelf.html">
+      <publishTime>03/29/2021 14:49:19</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPCodeOverview.pdf">
+      <publishTime>03/01/2021 06:34:21</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPFileStore.html">
+      <publishTime>04/01/2021 10:11:56</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPFileStore/Favorites.html">
+      <publishTime>04/01/2021 11:37:05</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPFileStore/Files.html">
+      <publishTime>04/07/2021 13:57:07</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPFileStore/FileShards.html">
+      <publishTime>04/01/2021 11:36:48</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPFileStore/FileTags.html">
+      <publishTime>04/01/2021 11:38:00</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPFileStore/Folders.html">
+      <publishTime>04/01/2021 11:38:00</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPFileStore/Tags.html">
+      <publishTime>04/01/2021 11:38:00</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPLattice.html">
+      <publishTime>03/03/2021 08:35:34</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPMetrics.html">
+      <publishTime>02/25/2021 11:18:30</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPMetrics/AutoWorkLog.html">
+      <publishTime>03/01/2021 11:12:46</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPMetrics/DGPErrors.html">
+      <publishTime>03/01/2021 11:16:17</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPMetrics/LatticeMetrics.html">
+      <publishTime>03/01/2021 11:19:49</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPMetrics/TestResult.html">
+      <publishTime>03/01/2021 11:25:24</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPTest.html">
+      <publishTime>02/25/2021 11:17:40</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPTest/Test.html">
+      <publishTime>02/25/2021 09:04:29</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPTest/TestReplica.html">
+      <publishTime>03/01/2021 11:33:18</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPTest/TestResult.html">
+      <publishTime>10/15/2019 12:38:18</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPWork.html">
+      <publishTime>03/08/2021 11:29:21</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPWork/DataWork.html">
+      <publishTime>10/15/2019 12:39:44</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPWork/GenWork.html">
+      <publishTime>03/03/2021 08:33:58</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPWork/RepWork.html">
+      <publishTime>03/03/2021 08:32:29</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/DGPWork/SchemaTable.html">
+      <publishTime>03/08/2021 11:28:07</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/Lattice/Favorites.html">
+      <publishTime>03/02/2021 11:51:58</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/Lattice/Files.html">
+      <publishTime>03/02/2021 15:59:46</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/Lattice/FileTags.html">
+      <publishTime>03/02/2021 11:55:41</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/Lattice/Folders.html">
+      <publishTime>03/02/2021 12:03:07</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_APIs/Lattice/Tags.html">
+      <publishTime>03/02/2021 08:44:10</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Applications/ApplicationsDescrip.html">
+      <publishTime>08/01/2020 06:15:03</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Applications/ApplicationsIndex.html">
+      <publishTime>08/01/2020 06:39:54</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Applications/LatticeIndex.html">
+      <publishTime>08/01/2020 06:39:54</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Changelogs/2019-10-15-Log.html">
+      <publishTime>09/18/2019 10:42:33</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Changelogs/2020-03-01-Log.html">
+      <publishTime>01/22/2020 12:38:50</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Changelogs/2020-09-01-Log.html">
+      <publishTime>08/01/2020 06:15:03</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Changelogs/2020-09-15-Log.html">
+      <publishTime>08/31/2020 09:35:55</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Changelogs/2021-02-15-Log.html">
+      <publishTime>02/09/2021 06:02:46</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Changelogs/2021-03-05-Log.html">
+      <publishTime>03/05/2021 06:44:26</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Changelogs/2021-04-05-Log.html">
+      <publishTime>03/05/2021 06:44:26</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Changelogs/2021-05-31-Log.html">
+      <publishTime>03/05/2021 06:44:26</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Changelogs/NextIterationLog.html">
+      <publishTime>09/17/2019 08:53:01</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ClientTier/AutoWork/AutoWork.pdf">
+      <publishTime>05/28/2021 08:45:48</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ClientTier/AutoWork/DBSetup.pdf">
+      <publishTime>02/08/2021 05:48:19</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ClientTier/ClientTierIndex.html">
+      <publishTime>02/16/2021 10:20:49</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ClientTier/ClientTierOverview.pdf">
+      <publishTime>05/27/2021 11:44:41</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ClientTier/DBSetup/DBSetup.pdf">
+      <publishTime>05/28/2021 09:00:09</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ClientTier/Lattice/AutoWorkConfiguration.pdf">
+      <publishTime>04/04/2021 14:01:29</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ClientTier/Lattice/LatticeAPITesting.pdf">
+      <publishTime>05/28/2021 09:48:01</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ClientTier/Lattice/LatticeAutoTesting.pdf">
+      <publishTime>04/04/2021 14:02:23</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ClientTier/Lattice/LatticeConnect.pdf">
+      <publishTime>04/04/2021 13:47:01</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ClientTier/Lattice/LatticeFileStore.pdf">
+      <publishTime>05/28/2021 09:44:53</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ClientTier/Lattice/LatticeIndex.html">
+      <publishTime>05/28/2021 12:57:51</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ClientTier/Lattice/LatticeMain.pdf">
+      <publishTime>04/07/2021 13:06:26</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ClientTier/Lattice/LatticeSecurity.pdf">
+      <publishTime>04/04/2021 13:59:55</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ClientTier/Lattice/LatticeUser.pdf">
+      <publishTime>04/04/2021 13:59:32</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ClientTier/Lattice/Utility.pdf">
+      <publishTime>04/04/2021 14:02:01</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Customization/CustomizationIndex.html">
+      <publishTime>10/25/2019 04:57:04</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Design/DesignDescrip.html">
+      <publishTime>04/06/2020 06:04:34</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Design/DesignIndex.html">
+      <publishTime>04/10/2020 06:06:46</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Home/ChangelogIndex.html">
+      <publishTime>08/01/2020 06:15:03</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Home/Changelogs.html">
+      <publishTime>05/28/2021 10:15:59</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Home/Description.html">
+      <publishTime>12/23/2019 08:11:44</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Home/HomeDescrip.html">
+      <publishTime>05/28/2021 10:15:59</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Home/HomeIndex.html">
+      <publishTime>04/04/2021 14:30:08</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Home/RoadmapIndex.html">
+      <publishTime>01/22/2020 13:38:39</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Home/SourceCode.html">
+      <publishTime>06/02/2021 08:00:46</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Home/SystemOverview.pdf">
+      <publishTime>08/31/2020 08:42:02</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Home/SystemOverview2.pdf">
+      <publishTime>03/12/2021 10:26:41</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Home/SystemOverview3.pdf">
+      <publishTime>05/27/2021 10:10:22</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Home/ZipFiles/SourceCode-2021-05-31.zip">
+      <publishTime>06/01/2021 15:50:10</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_NativeApps/Lattice/Connect.pdf">
+      <publishTime>09/02/2020 08:41:53</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_NativeApps/Lattice/FileStore.pdf">
+      <publishTime>09/02/2020 11:33:51</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_NativeApps/Lattice/LatticeDeploy.html">
+      <publishTime>09/02/2020 08:24:25</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_NativeApps/Lattice/LatticeIndex.html">
+      <publishTime>09/03/2020 07:52:45</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_NativeApps/Lattice/Security.pdf">
+      <publishTime>09/02/2020 14:32:35</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_NativeApps/NativeAppOverview.pdf">
+      <publishTime>09/02/2020 08:17:47</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_NativeApps/NativeAppsIndex.html">
+      <publishTime>08/31/2020 12:54:06</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Overview/OverviewIndex.html">
+      <publishTime>12/09/2019 14:59:25</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Requirements/RequirementsDescrip.html">
+      <publishTime>04/06/2020 06:01:42</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Requirements/RequirementsIndex.html">
+      <publishTime>04/10/2020 06:27:01</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Roadmaps/2020-01-01-APIs.html">
+      <publishTime>09/23/2019 08:53:34</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Roadmaps/2020-01-01-Apps.html">
+      <publishTime>12/09/2019 13:26:33</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Roadmaps/2020-01-01-AutoWork.html">
+      <publishTime>09/24/2019 12:25:47</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Roadmaps/2020-01-01-Databases.html">
+      <publishTime>09/18/2019 16:22:27</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Roadmaps/2020-01-01-Lattice.html">
+      <publishTime>12/09/2019 13:26:33</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Roadmaps/2020-01-01-Testing.html">
+      <publishTime>09/23/2019 08:55:53</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Roadmaps/2020-01-01-WebApp.html">
+      <publishTime>09/19/2019 15:47:48</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Roadmaps/2020-01-01-WebSvc.html">
+      <publishTime>10/31/2019 15:35:09</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Roadmaps/2020-03-01-APIs.html">
+      <publishTime>01/22/2020 13:27:43</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Roadmaps/2020-03-01-Automation.html">
+      <publishTime>09/24/2019 12:25:47</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Roadmaps/2020-03-01-Databases.html">
+      <publishTime>01/22/2020 13:33:28</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Roadmaps/2020-03-01-LatticeUI.html">
+      <publishTime>01/23/2020 09:30:51</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Roadmaps/2020-03-01-Testing.html">
+      <publishTime>01/23/2020 09:59:50</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Roadmaps/2020-03-01-WebApp.html">
+      <publishTime>01/23/2020 09:50:47</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Roadmaps/2020-03-01-WebSvc.html">
+      <publishTime>10/31/2019 15:35:09</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Roadmaps/Future.html">
+      <publishTime>11/07/2019 07:56:34</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Roadmaps/Next.html">
+      <publishTime>11/07/2019 07:19:34</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ServerTier/DataStorage/DataStorageIndex.html">
+      <publishTime>12/18/2020 07:13:48</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ServerTier/DataStorage/DataStorageOverview.pdf">
+      <publishTime>04/04/2021 14:10:24</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ServerTier/ServerTierIndex.html">
+      <publishTime>02/24/2021 07:50:31</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ServerTier/ServerTierOverview.pdf">
+      <publishTime>06/01/2021 12:22:39</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ServerTier/WebApps/WebApp.pdf">
+      <publishTime>04/07/2021 13:10:48</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ServerTier/WebApps/WebAppsIndex.html">
+      <publishTime>12/18/2020 07:08:41</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ServerTier/WebServices/Controller.pdf">
+      <publishTime>04/04/2021 14:12:50</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ServerTier/WebServices/DataClasses.pdf">
+      <publishTime>04/04/2021 14:14:33</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ServerTier/WebServices/LoggingMonitoring.pdf">
+      <publishTime>04/04/2021 14:15:04</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ServerTier/WebServices/MapperClass.pdf">
+      <publishTime>04/04/2021 14:14:18</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ServerTier/WebServices/MessagePipeline.pdf">
+      <publishTime>04/04/2021 14:13:16</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ServerTier/WebServices/SwitchClass.pdf">
+      <publishTime>04/04/2021 14:13:48</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ServerTier/WebServices/WebServiceIndex.html">
+      <publishTime>10/27/2020 12:17:08</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_ServerTier/WebServices/WebServiceOverview.pdf">
+      <publishTime>05/27/2021 14:43:07</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/Automation.pdf">
+      <publishTime>04/04/2021 14:15:24</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/Availability.pdf">
+      <publishTime>04/04/2021 14:15:38</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/CI-CD-CT.pdf">
+      <publishTime>04/04/2021 14:15:52</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/ClientApps.pdf">
+      <publishTime>04/07/2021 11:29:21</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/Compatibility.pdf">
+      <publishTime>04/04/2021 14:16:07</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/Configuration.pdf">
+      <publishTime>04/07/2021 13:21:19</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/Evolution.pdf">
+      <publishTime>04/04/2021 14:16:23</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/FileServer.html">
+      <publishTime>10/16/2019 08:39:38</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/InstallIndex.html">
+      <publishTime>04/07/2021 13:22:32</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/Logging.pdf">
+      <publishTime>04/04/2021 14:16:39</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/Maintenance.pdf">
+      <publishTime>03/04/2021 12:58:23</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/Maintenance2.pdf">
+      <publishTime>04/07/2021 11:31:13</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/Monitoring.pdf">
+      <publishTime>04/04/2021 14:17:28</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/Overview.html">
+      <publishTime>01/23/2020 09:23:47</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/Performance.pdf">
+      <publishTime>04/04/2021 14:17:45</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/Scalability.pdf">
+      <publishTime>04/04/2021 14:17:58</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/Security.pdf">
+      <publishTime>04/05/2021 09:23:49</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/Setup.pdf">
+      <publishTime>03/04/2021 12:58:40</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/Setup2.pdf">
+      <publishTime>04/04/2021 14:19:55</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/SetupDescrip.html">
+      <publishTime>04/06/2020 05:57:55</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/SetupIndex.html">
+      <publishTime>04/07/2021 11:19:52</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/SetupMaintenance.pdf">
+      <publishTime>10/27/2020 12:12:45</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/SetupOverview.pdf">
+      <publishTime>05/28/2021 08:46:07</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/SQLServer.html">
+      <publishTime>01/23/2020 09:24:55</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/SQLServer.pdf">
+      <publishTime>04/07/2021 12:18:44</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/Testing.pdf">
+      <publishTime>04/04/2021 14:20:12</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/WebServer.html">
+      <publishTime>10/17/2019 07:53:12</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_Setup/WindowsIIS.pdf">
+      <publishTime>04/07/2021 11:28:38</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_WebApps/WebAppIndex.html">
+      <publishTime>08/31/2020 08:51:29</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Docs_WebService/WebServiceIndex.html">
+      <publishTime>08/31/2020 08:56:35</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Scripts/doc-tabs.js">
+      <publishTime>08/21/2019 07:47:09</publishTime>
+    </File>
+    <File Include="Documentation/Docs/Scripts/jquery-3.4.1.min.js">
+      <publishTime>08/06/2019 11:46:24</publishTime>
+    </File>
+    <File Include="Documentation/DocsIndex.html">
+      <publishTime>04/19/2021 04:44:55</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/.signature.p7s">
+      <publishTime>07/08/2020 15:12:38</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/build/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.targets">
+      <publishTime>07/08/2020 21:51:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/build/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.targets">
+      <publishTime>07/08/2020 21:51:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/build/net46/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.targets">
+      <publishTime>07/08/2020 21:51:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/build/net46/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.targets">
+      <publishTime>07/08/2020 21:51:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/build/net472/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.targets">
+      <publishTime>07/08/2020 21:51:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/build/net472/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.targets">
+      <publishTime>07/08/2020 21:51:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/content/net45/app.config.install.xdt">
+      <publishTime>07/08/2020 21:51:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/content/net45/app.config.uninstall.xdt">
+      <publishTime>07/08/2020 21:51:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/content/net45/web.config.install.xdt">
+      <publishTime>07/08/2020 21:51:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/content/net45/web.config.uninstall.xdt">
+      <publishTime>07/08/2020 21:51:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/content/net46/app.config.install.xdt">
+      <publishTime>07/08/2020 21:51:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/content/net46/app.config.uninstall.xdt">
+      <publishTime>07/08/2020 21:51:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/content/net46/web.config.install.xdt">
+      <publishTime>07/08/2020 21:51:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/content/net46/web.config.uninstall.xdt">
+      <publishTime>07/08/2020 21:51:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/content/net472/app.config.install.xdt">
+      <publishTime>07/08/2020 21:51:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/content/net472/app.config.uninstall.xdt">
+      <publishTime>07/08/2020 21:51:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/content/net472/web.config.install.xdt">
+      <publishTime>07/08/2020 21:51:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/content/net472/web.config.uninstall.xdt">
+      <publishTime>07/08/2020 21:51:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>07/08/2020 21:52:58</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0.nupkg">
+      <publishTime>09/01/2020 12:54:50</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tasks/DotNetCompilerPlatformTasks.dll">
+      <publishTime>07/08/2020 21:54:08</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tasks/System.Management.dll">
+      <publishTime>05/15/2018 13:29:42</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/net45/common.ps1">
+      <publishTime>07/08/2020 21:54:42</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/net45/install.ps1">
+      <publishTime>07/08/2020 21:54:42</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/net45/uninstall.ps1">
+      <publishTime>07/08/2020 21:54:42</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/csc.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/csc.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/csc.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/csi.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/csi.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/Microsoft.CSharp.Core.targets">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/System.AppContext.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/System.Collections.Immutable.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/System.Diagnostics.StackTrace.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/System.IO.FileSystem.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/System.IO.FileSystem.Primitives.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/System.Reflection.Metadata.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/vbc.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/vbc.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/vbc.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/VBCSCompiler.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn45/VBCSCompiler.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/csc.exe">
+      <publishTime>11/01/2018 13:23:06</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/csc.exe.config">
+      <publishTime>11/01/2018 20:08:14</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/csc.rsp">
+      <publishTime>10/30/2018 11:39:38</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/csi.exe">
+      <publishTime>11/01/2018 13:23:06</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/csi.exe.config">
+      <publishTime>11/01/2018 20:08:32</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/csi.rsp">
+      <publishTime>11/01/2018 19:57:12</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>11/01/2018 13:23:08</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>11/01/2018 13:23:08</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>11/01/2018 13:23:08</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/Microsoft.CodeAnalysis.dll">
+      <publishTime>11/01/2018 13:23:08</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>11/01/2018 13:23:08</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>11/01/2018 13:23:08</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/Microsoft.CSharp.Core.targets">
+      <publishTime>11/01/2018 19:57:04</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>12/05/2017 01:36:44</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>12/05/2017 01:36:44</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/Microsoft.Managed.Core.targets">
+      <publishTime>10/30/2018 11:39:38</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/Microsoft.VisualBasic.Core.targets">
+      <publishTime>11/01/2018 19:57:04</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/Microsoft.Win32.Primitives.dll">
+      <publishTime>11/05/2016 11:55:32</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.AppContext.dll">
+      <publishTime>11/05/2016 11:55:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.Collections.Immutable.dll">
+      <publishTime>05/15/2018 20:29:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.Console.dll">
+      <publishTime>11/05/2016 11:55:48</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>11/05/2016 11:55:52</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>11/05/2016 11:55:56</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.Diagnostics.StackTrace.dll">
+      <publishTime>11/05/2016 11:55:52</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.Globalization.Calendars.dll">
+      <publishTime>11/05/2016 11:56:02</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.IO.Compression.dll">
+      <publishTime>11/05/2016 11:56:08</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.IO.Compression.ZipFile.dll">
+      <publishTime>11/05/2016 11:56:04</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.IO.FileSystem.dll">
+      <publishTime>11/05/2016 11:56:08</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.IO.FileSystem.Primitives.dll">
+      <publishTime>11/05/2016 11:56:08</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.Net.Http.dll">
+      <publishTime>11/05/2016 11:56:30</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.Net.Sockets.dll">
+      <publishTime>11/05/2016 11:56:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.Reflection.Metadata.dll">
+      <publishTime>05/15/2018 20:29:44</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>11/05/2016 11:57:00</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>11/05/2016 11:57:14</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.Security.Cryptography.Encoding.dll">
+      <publishTime>11/05/2016 11:57:08</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.Security.Cryptography.Primitives.dll">
+      <publishTime>11/05/2016 11:57:18</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>11/05/2016 11:57:18</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.Text.Encoding.CodePages.dll">
+      <publishTime>11/05/2016 11:57:20</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.Threading.Tasks.Extensions.dll">
+      <publishTime>11/05/2016 11:57:24</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.ValueTuple.dll">
+      <publishTime>11/05/2016 11:57:30</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.Xml.ReaderWriter.dll">
+      <publishTime>11/05/2016 11:57:36</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.Xml.XmlDocument.dll">
+      <publishTime>11/05/2016 11:57:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.Xml.XPath.dll">
+      <publishTime>11/05/2016 11:57:40</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/System.Xml.XPath.XDocument.dll">
+      <publishTime>11/05/2016 11:57:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/vbc.exe">
+      <publishTime>11/01/2018 13:23:08</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/vbc.exe.config">
+      <publishTime>11/01/2018 20:08:14</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/vbc.rsp">
+      <publishTime>11/01/2018 19:57:08</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/VBCSCompiler.exe">
+      <publishTime>11/01/2018 13:23:08</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn46/VBCSCompiler.exe.config">
+      <publishTime>11/01/2018 20:08:18</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/csc.exe">
+      <publishTime>05/19/2020 01:51:56</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/csc.exe.config">
+      <publishTime>05/19/2020 01:51:56</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/csc.rsp">
+      <publishTime>05/19/2020 01:40:20</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/csi.exe">
+      <publishTime>05/19/2020 01:52:16</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/csi.exe.config">
+      <publishTime>05/19/2020 01:52:16</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/csi.rsp">
+      <publishTime>05/19/2020 01:40:40</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>05/19/2020 01:47:18</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>05/19/2020 01:51:40</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>05/19/2020 01:51:58</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/Microsoft.CodeAnalysis.dll">
+      <publishTime>05/19/2020 01:49:16</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>05/19/2020 01:49:32</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>05/19/2020 01:50:04</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/Microsoft.CSharp.Core.targets">
+      <publishTime>05/19/2020 01:40:20</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>12/05/2017 01:36:44</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>12/05/2017 01:36:44</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/Microsoft.Managed.Core.targets">
+      <publishTime>05/19/2020 01:40:20</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/Microsoft.VisualBasic.Core.targets">
+      <publishTime>05/19/2020 01:40:20</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/System.Buffers.dll">
+      <publishTime>07/19/2017 17:01:28</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/System.Collections.Immutable.dll">
+      <publishTime>05/15/2018 20:29:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/System.Memory.dll">
+      <publishTime>04/17/2019 23:24:34</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/System.Numerics.Vectors.dll">
+      <publishTime>07/19/2017 17:01:36</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/System.Reflection.Metadata.dll">
+      <publishTime>05/15/2018 20:29:44</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>11/15/2019 16:37:58</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/System.Text.Encoding.CodePages.dll">
+      <publishTime>11/29/2018 23:39:18</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/System.Threading.Tasks.Extensions.dll">
+      <publishTime>06/18/2019 19:08:48</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/vbc.exe">
+      <publishTime>05/19/2020 01:50:06</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/vbc.exe.config">
+      <publishTime>05/19/2020 01:50:06</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/vbc.rsp">
+      <publishTime>05/19/2020 01:40:26</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/VBCSCompiler.exe">
+      <publishTime>05/19/2020 01:52:02</publishTime>
+    </File>
+    <File Include="packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.3.6.0/tools/Roslyn472/VBCSCompiler.exe.config">
+      <publishTime>05/19/2020 01:52:02</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>06/02/2021 08:01:18</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/01/2021 16:03:22</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

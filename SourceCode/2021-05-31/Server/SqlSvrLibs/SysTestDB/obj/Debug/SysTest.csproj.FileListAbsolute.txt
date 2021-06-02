@@ -1,0 +1,14 @@
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysTestDB\bin\Debug\SysTest.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysTestDB\bin\Debug\SysTest.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysTestDB\bin\Debug\SqlSvrUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysTestDB\bin\Debug\Serilog.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysTestDB\bin\Debug\SqlSvrUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysTestDB\bin\Debug\Serilog.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysTestDB\bin\Debug\Serilog.xml
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysTestDB\obj\Debug\SysTest.csprojAssemblyReference.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysTestDB\obj\Debug\SysTest.csproj.CoreCompileInputs.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysTestDB\obj\Debug\SysTest.csproj.CopyComplete
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysTestDB\obj\Debug\SysTest.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysTestDB\obj\Debug\SysTest.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysTestDB\bin\Debug\APIUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysTestDB\bin\Debug\APIUtil.pdb

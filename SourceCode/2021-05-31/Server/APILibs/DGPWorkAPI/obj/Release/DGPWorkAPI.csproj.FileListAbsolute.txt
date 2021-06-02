@@ -1,0 +1,15 @@
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\bin\Release\DGPWorkAPI.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\bin\Release\DGPWorkAPI.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\bin\Release\ApiUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\bin\Release\SysWorkDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\bin\Release\SqlSvrUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\bin\Release\SysWorkDB.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\bin\Release\ApiUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\bin\Release\SqlSvrUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\obj\Release\DGPWorkAPI.csprojAssemblyReference.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\obj\Release\DGPWorkAPI.csproj.CoreCompileInputs.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\obj\Release\DGPWorkAPI.csproj.CopyComplete
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\obj\Release\DGPWorkAPI.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\obj\Release\DGPWorkAPI.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\bin\Release\SysMetricsDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\bin\Release\SysMetricsDB.pdb

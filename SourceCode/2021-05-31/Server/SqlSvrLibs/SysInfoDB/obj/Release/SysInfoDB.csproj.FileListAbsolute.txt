@@ -1,0 +1,13 @@
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysInfoDB\bin\Release\SysInfoDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysInfoDB\bin\Release\SysInfoDB.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysInfoDB\bin\Release\ApiUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysInfoDB\bin\Release\SqlSvrUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysInfoDB\bin\Release\ApiUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysInfoDB\bin\Release\SqlSvrUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysInfoDB\obj\Release\SysInfoDB.csprojAssemblyReference.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysInfoDB\obj\Release\SysInfoDB.csproj.CoreCompileInputs.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysInfoDB\obj\Release\SysInfoDB.csproj.CopyComplete
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysInfoDB\obj\Release\SysInfoDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysInfoDB\obj\Release\SysInfoDB.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysInfoDB\bin\Release\SysMetricsDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\SqlSvrLibs\SysInfoDB\bin\Release\SysMetricsDB.pdb

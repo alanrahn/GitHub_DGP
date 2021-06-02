@@ -1,0 +1,63 @@
+
+	<TestBatch>
+		<TName>LatticeMetrics GetByID negative</TName>
+		<TDescrip>Negative tests of the LatticeMetrics GetByID method</TDescrip>
+		<TGID>{{TGID}}</TGID>
+		<TMsg>
+			<TMUserName>{{TMUserName}}</TMUserName>
+			<TMPassword>{{TMPassword}}</TMPassword>
+			<TMName>LatticeMetrics.GetByID.base</TMName>
+			<TMDescrip>empty input params</TMDescrip>
+			<TMExpAuthCode>OK</TMExpAuthCode>
+			<Meth>
+				<MName>LatticeMetrics.GetByID.base</MName>
+				<PList>
+					<Prm>
+						<Name>SchemaFlag</Name>
+						<Val>
+							<![CDATA[]]>
+						</Val>
+					</Prm>
+					<Prm>
+						<Name>row_gid</Name>
+						<Val>
+							<![CDATA[]]>
+						</Val>
+					</Prm>
+				</PList>
+			</Meth>
+			<RList>
+				<Result>
+					<RName>LatticeMetrics.GetByID.base_DEFAULT</RName>
+					<ExpRCode>ERROR</ExpRCode>
+					<ExpDType>TEXT</ExpDType>
+					<ExpRVal></ExpRVal>
+					<ValMatch></ValMatch>
+					<VarName></VarName>
+				</Result>
+			</RList>
+		</TMsg>
+		<TMsg>
+			<TMUserName>{{TMUserName}}</TMUserName>
+			<TMPassword>{{TMPassword}}</TMPassword>
+			<TMName>LatticeMetrics.GetByID.base</TMName>
+			<TMDescrip>missing input params</TMDescrip>
+			<TMExpAuthCode>OK</TMExpAuthCode>
+			<Meth>
+				<MName>LatticeMetrics.GetByID.base</MName>
+				<PList>
+				</PList>
+			</Meth>
+			<RList>
+				<Result>
+					<RName>LatticeMetrics.GetByID.base_DEFAULT</RName>
+					<ExpRCode>ERROR</ExpRCode>
+					<ExpDType>TEXT</ExpDType>
+					<ExpRVal></ExpRVal>
+					<ValMatch></ValMatch>
+					<VarName></VarName>
+				</Result>
+			</RList>
+		</TMsg>
+	</TestBatch>
+	

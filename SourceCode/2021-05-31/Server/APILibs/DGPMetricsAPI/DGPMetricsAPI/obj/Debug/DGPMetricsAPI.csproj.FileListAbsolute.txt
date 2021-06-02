@@ -1,0 +1,13 @@
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPMetricsAPI\DGPMetricsAPI\bin\Debug\DGPMetricsAPI.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPMetricsAPI\DGPMetricsAPI\bin\Debug\DGPMetricsAPI.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPMetricsAPI\DGPMetricsAPI\bin\Debug\ApiUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPMetricsAPI\DGPMetricsAPI\bin\Debug\SysMetricsDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPMetricsAPI\DGPMetricsAPI\bin\Debug\SqlSvrUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPMetricsAPI\DGPMetricsAPI\bin\Debug\SysMetricsDB.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPMetricsAPI\DGPMetricsAPI\bin\Debug\ApiUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPMetricsAPI\DGPMetricsAPI\bin\Debug\SqlSvrUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPMetricsAPI\DGPMetricsAPI\obj\Debug\DGPMetricsAPI.csprojAssemblyReference.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPMetricsAPI\DGPMetricsAPI\obj\Debug\DGPMetricsAPI.csproj.CoreCompileInputs.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPMetricsAPI\DGPMetricsAPI\obj\Debug\DGPMetricsAPI.csproj.CopyComplete
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPMetricsAPI\DGPMetricsAPI\obj\Debug\DGPMetricsAPI.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPMetricsAPI\DGPMetricsAPI\obj\Debug\DGPMetricsAPI.pdb

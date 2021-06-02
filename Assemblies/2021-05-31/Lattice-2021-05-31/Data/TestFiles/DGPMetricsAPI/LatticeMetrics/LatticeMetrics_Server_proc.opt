@@ -1,0 +1,32 @@
+
+	<TestBatch>
+		<TName>LatticeMetrics Server Metrics</TName>
+		<TDescrip>Runs the Server API method to collect server GC metrics (requires membership in Perf Counter Group)</TDescrip>
+		<TGID>{{TGID}}</TGID>
+		
+		<TMsg>
+			<TMUserName>{{TMUserName}}</TMUserName>
+			<TMPassword>{{TMPassword}}</TMPassword>
+			<TMName>LatticeMetrics.Server.base</TMName>
+			<TMDescrip>Query </TMDescrip>
+			<TMExpAuthCode>OK</TMExpAuthCode>
+			<Meth>
+				<MName>LatticeMetrics.Server.base</MName>
+				<PList>
+
+				</PList>
+			</Meth>
+			<RList>
+				<Result>
+					<RName>LatticeMetrics.Server.base_DEFAULT</RName>
+					<ExpRCode>OK</ExpRCode>
+					<ExpDType>TEXT</ExpDType>
+					<ExpRVal></ExpRVal>
+					<ValMatch></ValMatch>
+					<VarName></VarName>
+				</Result>
+			</RList>
+		</TMsg>
+		
+	</TestBatch>
+	

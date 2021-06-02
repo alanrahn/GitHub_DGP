@@ -1,0 +1,17 @@
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPTestApi\bin\Debug\DGPTestApi.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPTestApi\bin\Debug\DGPTestApi.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPTestApi\bin\Debug\ApiUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPTestApi\bin\Debug\SysInfoDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPTestApi\bin\Debug\SysMetricsDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPTestApi\bin\Debug\SysWorkDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPTestApi\bin\Debug\SqlSvrUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPTestApi\bin\Debug\SysInfoDB.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPTestApi\bin\Debug\SysMetricsDB.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPTestApi\bin\Debug\SysWorkDB.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPTestApi\bin\Debug\ApiUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPTestApi\bin\Debug\SqlSvrUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPTestApi\obj\Debug\DGPTestAPI.csprojAssemblyReference.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPTestApi\obj\Debug\DGPTestAPI.csproj.CoreCompileInputs.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPTestApi\obj\Debug\DGPTestAPI.csproj.CopyComplete
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPTestApi\obj\Debug\DGPTestApi.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPTestApi\obj\Debug\DGPTestApi.pdb

@@ -1,0 +1,15 @@
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\bin\Debug\DGPWorkAPI.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\bin\Debug\DGPWorkAPI.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\bin\Debug\ApiUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\bin\Debug\SysMetricsDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\bin\Debug\SysWorkDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\bin\Debug\SqlSvrUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\bin\Debug\SysMetricsDB.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\bin\Debug\SysWorkDB.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\bin\Debug\ApiUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\bin\Debug\SqlSvrUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\obj\Debug\DGPWorkAPI.csprojAssemblyReference.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\obj\Debug\DGPWorkAPI.csproj.CoreCompileInputs.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\obj\Debug\DGPWorkAPI.csproj.CopyComplete
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\obj\Debug\DGPWorkAPI.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPWorkAPI\obj\Debug\DGPWorkAPI.pdb

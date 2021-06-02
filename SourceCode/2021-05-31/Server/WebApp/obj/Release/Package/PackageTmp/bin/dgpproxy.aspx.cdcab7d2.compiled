@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/DGPproxy.aspx" hash="8cd85d3d3" filehash="ffffcc2bcfdba8e8" flags="110000" assembly="DGPWebApp" type="ASP.dgpproxy_aspx">
+  <filedeps>
+    <filedep name="/DGPproxy.aspx" />
+  </filedeps>
+</preserve>

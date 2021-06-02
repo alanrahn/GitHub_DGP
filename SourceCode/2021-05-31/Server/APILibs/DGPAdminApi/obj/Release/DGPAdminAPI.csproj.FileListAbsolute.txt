@@ -1,0 +1,15 @@
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPAdminApi\bin\Release\DGPAdmin.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPAdminApi\bin\Release\DGPAdmin.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPAdminApi\bin\Release\ApiUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPAdminApi\bin\Release\SysInfoDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPAdminApi\bin\Release\SqlSvrUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPAdminApi\bin\Release\SysInfoDB.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPAdminApi\bin\Release\ApiUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPAdminApi\bin\Release\SqlSvrUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPAdminApi\obj\Release\DGPAdminAPI.csprojAssemblyReference.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPAdminApi\obj\Release\DGPAdminAPI.csproj.CoreCompileInputs.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPAdminApi\obj\Release\DGPAdminAPI.csproj.CopyComplete
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPAdminApi\obj\Release\DGPAdmin.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPAdminApi\obj\Release\DGPAdmin.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPAdminApi\bin\Release\SysMetricsDB.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Server\APILibs\DGPAdminApi\bin\Release\SysMetricsDB.pdb

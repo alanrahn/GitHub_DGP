@@ -1,0 +1,10 @@
+C:\Users\alanrahn\source\repos\DistribwareBeta\Client\DGPAutoWork\bin\Debug\DGPAutoWork.exe.config
+C:\Users\alanrahn\source\repos\DistribwareBeta\Client\DGPAutoWork\bin\Debug\DGPAutoWork.exe
+C:\Users\alanrahn\source\repos\DistribwareBeta\Client\DGPAutoWork\bin\Debug\DGPAutoWork.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Client\DGPAutoWork\obj\Debug\DGPAutoWork.csprojAssemblyReference.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Client\DGPAutoWork\obj\Debug\DGPAutoWork.csproj.CoreCompileInputs.cache
+C:\Users\alanrahn\source\repos\DistribwareBeta\Client\DGPAutoWork\obj\Debug\DGPAutoWork.exe
+C:\Users\alanrahn\source\repos\DistribwareBeta\Client\DGPAutoWork\obj\Debug\DGPAutoWork.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Client\DGPAutoWork\bin\Debug\ApiUtil.dll
+C:\Users\alanrahn\source\repos\DistribwareBeta\Client\DGPAutoWork\bin\Debug\ApiUtil.pdb
+C:\Users\alanrahn\source\repos\DistribwareBeta\Client\DGPAutoWork\obj\Debug\DGPAutoWork.csproj.CopyComplete
