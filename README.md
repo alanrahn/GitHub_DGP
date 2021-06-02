@@ -1,6 +1,4 @@
 # GitHub_DGP
-read-only copy of the real Git repository
-
 
 DGP and Lattice beta code
 
